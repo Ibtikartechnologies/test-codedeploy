@@ -8,6 +8,6 @@ echo "<!doctype html>
     <title>Testing AWS CodeDeply!</title>
   </head>
   <body>
-    <p>We Are testing AWS Code deploy Automatin update And you are on machine ${ID} </p>
+    <p>We Are testing AWS Code deploy Automatin update And you are on machine ${ID} and testing code pipeline </p>
   </body>
 </html>" >> /var/www/html/index.html
